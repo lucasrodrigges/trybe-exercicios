@@ -1,1 +1,1 @@
-# Repositório referente à minha caminhada na Trybe
+# Repositório referente a minha caminhada na Trybe
