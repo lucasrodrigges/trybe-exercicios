@@ -17,4 +17,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [✅] 2-1: O que é e para que serve?
 - [✅] 2-2: Entendendo os comandos
-- [] 2-3: Internet - Entendendo como ela funciona
+- [✅] 2-3: Internet - Entendendo como ela funciona
