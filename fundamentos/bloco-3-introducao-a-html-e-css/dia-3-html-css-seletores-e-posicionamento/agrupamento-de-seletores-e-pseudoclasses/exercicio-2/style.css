@@ -1,0 +1,44 @@
+div:hover {
+  border: 3px solid aquamarine;
+}
+
+.div1 {
+  background-color: aqua;
+}
+
+.div2 {
+  background-color: antiquewhite;
+}
+
+.div3 {
+  background-color: blue;
+  font-size: 1.5em;
+}
+
+.div4 {
+  background-color: blueviolet;
+}
+
+.div5 {
+  background-color: brown;
+}
+
+#h3-1 {
+  margin-left: 50%;
+}
+
+#h3-2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#h3-3 {
+  color: yellow;
+}
+
+#h3-4 {
+  font-style: italic;
+}
+
+#h3-5 {
+  color: aquamarine;
+}
