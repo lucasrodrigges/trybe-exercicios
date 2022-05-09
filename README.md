@@ -19,7 +19,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [✅] 2-2: Entendendo os comandos
 - [✅] 2-3: Internet - Entendendo como ela funciona
 
-### Bloco 3: HTML & CSS
+### Bloco 3: Introdução à HTML e CSS
 
 - [✅] 3.1: Introdução - HTML & CSS
 - [✅] 3.1.2: HTML & CSS - Estruturas de página
