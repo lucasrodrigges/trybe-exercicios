@@ -1,39 +1,57 @@
 ol li {
   background-color: yellow;
-  font-weight: 900;
 }
-ol li.li-par {
-  background-color: green;
+
+.li-par {
+  color: green;
 }
-ol li.li-impar {
+
+.li-impar {
   text-transform: uppercase;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   color: red;
 }
-h1 {
+
+h1 em,h2 em, h3 em {
   font-size: 40px;
-  border: 1px solid black;
+  border: 1px black solid;
 }
+
 li {
   font-size: 20px;
 }
-li.languages-red {
+
+li em {
+  font-weight: 800;
+}
+
+.language-color {
   color: blue;
 }
-li.java-skill {
+
+.java {
   background-color: pink;
 }
-a.green:hover {
-  color: green;
+
+.green:hover {
+color: green;
+transition: 0.5s;
+
 }
-a#orange:hover {
+#orange:hover {
   color: orange;
+  transition: 0.5s;
+
 }
-a#black:hover {
+#black:hover {
   color: black;
+  transition: 0.5s;
 }
-a#yellow:hover {
-color: yellow;
+#yellow:hover{
+  color: yellow;
+  transition: 0.5s;
 }
