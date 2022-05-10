@@ -1,0 +1,39 @@
+ol li {
+  background-color: yellow;
+  font-weight: 900;
+}
+ol li.li-par {
+  background-color: green;
+}
+ol li.li-impar {
+  text-transform: uppercase;
+}
+
+h1, h2, h3 {
+  color: red;
+}
+h1 {
+  font-size: 40px;
+  border: 1px solid black;
+}
+li {
+  font-size: 20px;
+}
+li.languages-red {
+  color: blue;
+}
+li.java-skill {
+  background-color: pink;
+}
+a.green:hover {
+  color: green;
+}
+a#orange:hover {
+  color: orange;
+}
+a#black:hover {
+  color: black;
+}
+a#yellow:hover {
+color: yellow;
+}
