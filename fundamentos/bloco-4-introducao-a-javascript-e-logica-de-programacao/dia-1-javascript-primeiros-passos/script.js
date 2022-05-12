@@ -66,6 +66,21 @@ if(soma === 180 && angle1 >= 0 && angle2 >=0 && angle3 >= 0) {
 
 
 // PROGRAMA 7
+let porcentagem = 1;
+
+if(porcentagem >= 90){
+  console.log("A");
+} else if(porcentagem >= 90){
+  console.log("B");
+} else if(porcentagem >= 60){
+  console.log("D");
+} else if(porcentagem >= 50){
+  console.log("E");
+} else if (porcentagem <50 && porcentagem > 0){
+  console.log("F");
+} else if(porcentagem < 0){
+  console.log("Nota Inválida");
+}
 
 
 
