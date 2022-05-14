@@ -163,3 +163,26 @@ if(salarioLiquido1 <= 1903.98){
 } else {
   console.log(tristezaTotal);
 }
+
+// PROGRAMA 11 REFATORADO
+let salary = 3000;
+
+if(salary <= 1556.94){
+  salary = salary - 0.08 * salary;
+} else if(salary <= 2594.92){
+  salary = salary - 0.09 * salary;
+} else if(salary <= 5189.82){
+  salary = salary - 0.11 * salary;
+} else {
+  salary - 570.88;
+}
+console.log(salary);
+
+if(salary >= 1903.99 && salary <= 2823.65){
+  salary = salary - 0.075 * salary + 142.80;
+} else if(salary >= 4664.68){
+  salary = salary - (0.15 * salary) + 354.80;
+} else {
+  salary = salary - (0.275 * salary) + 869,36;
+}
+console.log(salary);
