@@ -40,9 +40,8 @@ function checkSmallerNumberI(array) {
 console.log(checkSmallerNumberI([2, 4, 6, 7, 10, 0, -3]));
 
 // 4
-higherName = [0]
-
 function nameCount(nameArray) {
+  let higherName = [0];
   for (let i = 0; i < nameArray.length; i++) {
     if (nameArray[i].length > higherName.length) {
       higherName = nameArray[i];
