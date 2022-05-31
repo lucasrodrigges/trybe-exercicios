@@ -33,4 +33,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [✅] 4.2 JavaScript - Primeiros passos
 - [✅] 4.3 JavaScript - Array e loop For
 - [✅] 4.4 JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.5 JavaScript - Objetos e funções
+- [✅] 4.5 JavaScript - Objetos e funções
+- [✅] 4.6 Projeto - Playground Functions
+
+### Bloco 05: JavaScript: DOM, Eventos e Web Storage
+
+- [✅] 5.1: JavaScript - DOM e seletores
+- [✅] 5.2: JavaScript - Trabalhando com elementos
+- [✅] 5.3: JavaScript - Eventos
+- [✅] 5.4: JavaScript - Web Storage
+- [✅] 5.5: Fundamentos - JavaScript - Projetos
+- [✅] 5.5: Projeto - Arte com Pixels
+
+### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
+
+- [✅] 61: HTML & CSS - Forms
+- [ ] 62: Bibliotecas JavaScript e Frameworks CSS
+- [ ] 63: Introdução - CSS Flexbox
+- [ ] 63: CSS Flexbox - Parte 1
+- [ ] 64: CSS Flexbox - Parte 2
+- [ ] 65: CSS Responsivo - Mobile First
+- [ ] 66: Projeto - Trybewarts
