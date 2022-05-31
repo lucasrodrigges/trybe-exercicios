@@ -10,44 +10,44 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ### Bloco 01: Introdução - Unix & Shell
 
-- [✅] 1-3: Unix & Shell- Part 1
-- [✅] 1-4: Unix & Shell- Part 2
+- [X] 1-3: Unix & Shell- Part 1
+- [X] 1-4: Unix & Shell- Part 2
 
 ### Bloco 02: Git & GitHub
 
-- [✅] 2-1: O que é e para que serve?
-- [✅] 2-2: Entendendo os comandos
-- [✅] 2-3: Internet - Entendendo como ela funciona
+- [X] 2-1: O que é e para que serve?
+- [X] 2-2: Entendendo os comandos
+- [X] 2-3: Internet - Entendendo como ela funciona
 
 ### Bloco 03: Introdução à HTML e CSS
 
-- [✅] 3.1: Introdução - HTML & CSS
-- [✅] 3.1.2: HTML & CSS - Estruturas de página
-- [✅] 3.2: HTML & CSS - Primeiros passos em CSS
-- [✅] 3.3 HTML & CSS - Seletores e posicionamento
-- [✅] 3.4 HTML Semântico
+- [X] 3.1: Introdução - HTML & CSS
+- [X] 3.1.2: HTML & CSS - Estruturas de página
+- [X] 3.2: HTML & CSS - Primeiros passos em CSS
+- [X] 3.3 HTML & CSS - Seletores e posicionamento
+- [X] 3.4 HTML Semântico
 
 ### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
-- [✅] 4.1 Introdução - JavaScript
-- [✅] 4.2 JavaScript - Primeiros passos
-- [✅] 4.3 JavaScript - Array e loop For
-- [✅] 4.4 JavaScript - Lógica de Programação e Algoritmos
-- [✅] 4.5 JavaScript - Objetos e funções
-- [✅] 4.6 Projeto - Playground Functions
+- [X] 4.1 Introdução - JavaScript
+- [X] 4.2 JavaScript - Primeiros passos
+- [X] 4.3 JavaScript - Array e loop For
+- [X] 4.4 JavaScript - Lógica de Programação e Algoritmos
+- [X] 4.5 JavaScript - Objetos e funções
+- [X] 4.6 Projeto - Playground Functions
 
 ### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
-- [✅] 5.1: JavaScript - DOM e seletores
-- [✅] 5.2: JavaScript - Trabalhando com elementos
-- [✅] 5.3: JavaScript - Eventos
-- [✅] 5.4: JavaScript - Web Storage
-- [✅] 5.5: Fundamentos - JavaScript - Projetos
-- [✅] 5.5: Projeto - Arte com Pixels
+- [X] 5.1: JavaScript - DOM e seletores
+- [X] 5.2: JavaScript - Trabalhando com elementos
+- [X] 5.3: JavaScript - Eventos
+- [X] 5.4: JavaScript - Web Storage
+- [X] 5.5: Fundamentos - JavaScript - Projetos
+- [X] 5.5: Projeto - Arte com Pixels
 
 ### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [✅] 61: HTML & CSS - Forms
+- [X] 61: HTML & CSS - Forms
 - [ ] 62: Bibliotecas JavaScript e Frameworks CSS
 - [ ] 63: Introdução - CSS Flexbox
 - [ ] 63: CSS Flexbox - Parte 1
