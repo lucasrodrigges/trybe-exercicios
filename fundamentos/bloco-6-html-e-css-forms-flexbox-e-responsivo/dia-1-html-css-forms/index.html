@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,13 +8,70 @@
   <title>Document</title>
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
   <header>
     <h1>Formulário TrybeTrip</h1>
   </header>
   <main>
-    <label for="full-name"></label>
+    <form action="" method="get">
+
+      <div>
+        <label for="full-name">Nome:</label>
+        <input type="text" minlength="10" maxlength="40" placeholder="Nome completo">
+      </div>
+
+      <div>
+        <label for="email">Email:</label>
+        <input type="email" minlength="10" maxlength="50" placeholder="seuemail@domínio.com">
+      </div>
+
+      <div>
+        <p>Destino Preferido</p>
+        <label for="destiny-1">
+
+          <input type="radio" name="destiny" id="destiny-1"> Cidade
+        </label>
+        <label for="destiny-2">
+          <input type="radio" name="destiny" id="destiny-2"> Campo
+        </label>
+        <label for="destiny-3">
+          <input type="radio" name="destiny" id="destiny-3"> Praia
+        </label>
+        <label for="destiny-4">
+          <input type="radio" name="destiny" id="destiny-4"> Montanhas
+        </label>
+
+      </div>
+
+      <div>
+        <p>Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</p>
+        <textarea name="" id="" cols="30" rows="10" maxlength="500"></textarea>
+      </div>
+
+      <div>
+        <p>Qual a melhor data para realizar sua viagem? </p>
+        <label for="date-trip">Data:</label>
+        <input type="date" name="" id="">
+      </div>
+
+      <div>
+        <input type="checkbox" name="check-updates" id="updates">
+        <label for="updates">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe? </label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check-agree" id="agree">
+        <label for="agree">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros. </label>
+      </div>
+
   </main>
+  <div>
+    <button type="submit" id="submit-btn">Enviar</button>
+    <button type="reset">Apagar</button>
+  </div>
+  </form>
   <script src="./script.js"></script>
 </body>
+
 </html>
