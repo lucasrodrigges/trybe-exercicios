@@ -4,6 +4,7 @@
  */
  html {
   box-sizing: border-box;
+  
 }
 
 *, *:before, *:after {
@@ -11,7 +12,8 @@
 }
 
 body {
-
+  font-size: 25px;
+  margin: 20px;
 }
 
 article {
@@ -19,7 +21,6 @@ article {
 }
 
 h1 {
-
 }
 
 h2 {
@@ -28,6 +29,7 @@ h2 {
 
 img {
 	max-width: 100%;
+  padding: 20px;
 }
 
 main {
@@ -44,4 +46,67 @@ figure {
 
 figcaption {
   font-size: .8em;
+}
+
+@media screen and (max-width: 780px) {
+  html {
+    display: flex;
+  }
+  body {
+    background-color: pink;
+    font-size: 18px;
+    margin: 50px;
+  }
+  figcaption {
+    text-align: center;
+  }
+
+  h1, h2 {
+    font-size: 22px;
+  }
+  section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  img {
+    width: 400px;
+  }
+}
+
+@media screen and (min-width: 781px) {
+  html {
+    display: flex;
+    justify-content: center;
+  }
+
+  body {
+    background-color: pink;
+    font-size: 20px;
+    width: 50%;
+  }
+
+  figcaption {
+    text-align: center;
+  }
+
+  h1, h2 {
+    font-size: 35px;
+  }
+
+  section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .imgs {
+    display: flex;
+    justify-content: center;
+    /* border: solid 1px black; */
+    width: 100%;
+  }
+  img {
+    width: 300px;
+   }
 }
