@@ -47,10 +47,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [X] 61: HTML & CSS - Forms
-- [X] 62: Bibliotecas JavaScript e Frameworks CSS
-- [X] 63: Introdução - CSS Flexbox
-- [X] 63: CSS Flexbox - Parte 1
-- [ ] 64: CSS Flexbox - Parte 2
-- [ ] 65: CSS Responsivo - Mobile First
-- [ ] 66: Projeto - Trybewarts
+- [X] 6.1: HTML & CSS - Forms
+- [X] 6.2: Bibliotecas JavaScript e Frameworks CSS
+- [X] 6.3: Introdução - CSS Flexbox
+- [X] 6.3: CSS Flexbox - Parte 1
+- [X] 6.4: CSS Flexbox - Parte 2
+- [X] 6.5: CSS Responsivo - Mobile First
+- [X] 6.6: Projeto - Trybewarts
+
+### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
+- [X] 7.1: JavaScript ES6 - let, const, arrow functions e template literals
+- [ ] 7.2: JavaScript ES6 - Fluxo de exceção e Objetos
+- [ ] 7.4: Primeiros passos em Jest
+- [ ] 7.5: Projeto - JavaScript Testes Unitários
