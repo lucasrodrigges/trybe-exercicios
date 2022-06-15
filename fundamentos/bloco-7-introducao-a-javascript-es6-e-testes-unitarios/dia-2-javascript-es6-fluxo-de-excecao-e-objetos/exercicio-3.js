@@ -30,6 +30,7 @@ const sizeObj = (obj) => Object.entries(obj).length;
 const objValues = (obj) => Object.values(obj);
 
 const createObj = (obj1, obj2, obj3) => {
+  // const allLessons = Object.assign({}, { lesson1, lesson2, lesson3 });
   const allLessons = {};
   allLessons.lesson1 =  Object.assign(obj1);
   allLessons.lesson2 =  Object.assign(addShift(lesson2, 'turno', 'noite'));
@@ -81,8 +82,6 @@ const createReport = (obj, name) => {
   return obj_report;
 }
 
-console.log(createReport(allLessons, 'Maria Clara'));
-
 // console.log(addShift(lesson2, 'turno', 'noite'));
 // console.log(listKeys(lesson1));
 // console.log(sizeObj(lesson3));
@@ -93,3 +92,4 @@ console.log(createReport(allLessons, 'Maria Clara'));
 // console.log(verifyPair(lesson3, 'turno', 'noite'));
 // console.log(verifyPair(lesson3, 'materia', 'Maria Clara'));
 // console.log(countMathStudents(allLessons, 'Matemática'));
+// console.log(createReport(allLessons, 'Maria Clara'));
