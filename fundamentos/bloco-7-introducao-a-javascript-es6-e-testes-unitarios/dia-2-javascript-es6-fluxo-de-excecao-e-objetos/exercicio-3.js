@@ -69,7 +69,7 @@ const createReport = (obj, name) => {
   const obj_report = {};
   const arr_aulas = [];
   let result = 0;
-
+  
   arr_obj.forEach(lessons => {
     if(lessons.professor === name) {
       obj_report.professor = name;
@@ -89,7 +89,7 @@ const createReport = (obj, name) => {
 // console.log(createObj(lesson1, lesson2, lesson3));
 // console.log(howManyStudents(createObj(lesson1, lesson2, lesson3)));
 // console.log(getValueByNumber(lesson1, 0));
+// console.log(countMathStudents(allLessons, 'Matemática'));
 // console.log(verifyPair(lesson3, 'turno', 'noite'));
 // console.log(verifyPair(lesson3, 'materia', 'Maria Clara'));
-// console.log(countMathStudents(allLessons, 'Matemática'));
 // console.log(createReport(allLessons, 'Maria Clara'));
